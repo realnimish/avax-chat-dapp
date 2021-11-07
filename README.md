@@ -87,7 +87,7 @@ Open [Remix](https://remix.ethereum.org/) -&gt; Select Solidity
 
 Create a `Database.sol` file in the Remix file explorer, and paste the following code :
 
-```javascript
+```solidity
 // SPDX-License-Identifier: GPL-3.0
 
 pragma solidity >=0.7.0 <0.9.0;
