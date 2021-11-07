@@ -67,7 +67,7 @@ We would maintain 2 collections in our database:
 
 Log in to MetaMask -&gt; Click the Network drop-down -&gt; Select Custom RPC
 
-![Metamask](../../../.gitbook/assets/create-an-amm-on-avalanche_metamask.png)
+![Metamask](images/metamask.png)
 
 **FUJI Testnet Settings:**
 
