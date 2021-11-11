@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/avax-chat-dapp/static/js/main.5aa20e0e.chunk.js",
+    "main.js.map": "/avax-chat-dapp/static/js/main.5aa20e0e.chunk.js.map",
+    "runtime-main.js": "/avax-chat-dapp/static/js/runtime-main.70a62f16.js",
+    "runtime-main.js.map": "/avax-chat-dapp/static/js/runtime-main.70a62f16.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/avax-chat-dapp/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.43a14186.chunk.js": "/avax-chat-dapp/static/js/2.43a14186.chunk.js",
+    "static/js/2.43a14186.chunk.js.map": "/avax-chat-dapp/static/js/2.43a14186.chunk.js.map",
+    "index.html": "/avax-chat-dapp/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/avax-chat-dapp/static/css/2.4c97ca4f.chunk.css.map",
+    "static/js/2.43a14186.chunk.js.LICENSE.txt": "/avax-chat-dapp/static/js/2.43a14186.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70a62f16.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.43a14186.chunk.js",
+    "static/js/main.5aa20e0e.chunk.js"
+  ]
+}
